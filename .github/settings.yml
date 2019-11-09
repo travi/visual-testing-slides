@@ -1,0 +1,6 @@
+_extends: .github
+repository:
+  name: visual-testing-slides
+  description: Spectacle slide deck for talk about visual testing
+  homepage: 'https://github.com/travi/visual-testing-slides#readme'
+  private: false
